@@ -1,0 +1,2 @@
+C:\Users\user\Documents\b4\landovsky\lab2\Algorythms_Lab_2\Debug\Algorythms_Lab_2.exe
+C:\Users\user\Documents\b4\landovsky\lab2\Algorythms_Lab_2\Debug\Algorythms_Lab_2.pdb

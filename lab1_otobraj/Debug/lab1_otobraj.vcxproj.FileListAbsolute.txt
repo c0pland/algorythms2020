@@ -1,0 +1,2 @@
+C:\Users\user\Documents\b4\landovsky\lab1_otobraj\Debug\lab1_mapping.exe
+C:\Users\user\Documents\b4\landovsky\lab1_otobraj\Debug\lab1_mapping.pdb
